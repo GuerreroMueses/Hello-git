@@ -1,1 +1,1 @@
-print ("Hello Git! This is my first Git repository.");
+print ("Cambios en el repositorio");
