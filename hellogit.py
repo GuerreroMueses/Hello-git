@@ -1,1 +1,1 @@
-print ("Cambios en el repositorio");
+print ("Cambiando a repositorio de GitHub");
